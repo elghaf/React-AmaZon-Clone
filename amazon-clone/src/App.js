@@ -11,7 +11,7 @@ function App() {
     <div className="app">
     
     <Header />
-    {/* Home */}
+    <Home/>
   </div>
   );
 }
